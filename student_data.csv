@@ -1,0 +1,21 @@
+StudentID,Gender,Age,Country,Lessons Completed,Quiz Score,Time Per Week,Result
+S001,Male,20.0,India,25,78.5,10,Pass
+S002,Female,22.0,USA,30,82.0,12,Pass
+S003,Male,19.0,Sri Lanka,18,45.0,8,Fail
+S004,Female,21.0,India,28,88.0,9,Pass
+S005,Female,18.0,USA,15,35.0,5,Fail
+S006,Male,,Sri Lanka,10,25.0,4,Fail
+S007,Male,24.0,India,32,90.0,14,Pass
+S008,Female,23.0,USA,20,,11,Pass
+S009,Male,25.0,India,29,77.0,10,Pass
+S010,Female,20.0,Sri Lanka,14,30.0,6,Fail
+S011,Male,22.0,India,25,50.0,7,Fail
+S012,Female,21.0,USA,31,85.0,13,Pass
+S013,Male,20.0,Sri Lanka,10,20.0,3,Fail
+S014,Female,,India,26,80.0,9,Pass
+S015,Male,23.0,USA,22,,7,Pass
+S016,Female,24.0,India,18,40.0,6,Fail
+S017,Male,21.0,Sri Lanka,20,65.0,8,Pass
+S018,Female,26.0,India,27,84.0,9,Pass
+S019,Male,22.0,India,35,95.0,15,Pass
+S020,Female,20.0,Sri Lanka,12,50.0,5,Fail
